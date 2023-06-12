@@ -24,11 +24,7 @@ RP_comp = 3.6                       #20  Relación de Presión en el Compresor"
 RP_turb =3.6                       # 20  Relación de Presión en la Turbina"
 
 #EFICIENCIAS
-N_c = 0.78                           #Eficiencia adiabática Compresor (eta_com)
-N_turb = 0.83                      #Eficiencia adiabática Turbina
-eta_ph = 0.70                        #Eficiencia Intercambiador de Calor Precalentador
-eta_cc = 0.98                        #Eficiencia Cámara de Combustión
-eta_HRSG = 0.80                      #Eficiencia HRSG
+        #Eficiencia HRSG
 
 m_dot_comb = m_dot_aire + m_dot_CH4        #Flujo masico total
 
